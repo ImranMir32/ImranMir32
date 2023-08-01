@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md. Imran Mir</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
+I always on the lookout for new and intriguing challenges. I have an insatiable passion for learning and expanding my skills, and I strongly believe that there is something to learn from everyone, no matter their level of experience. By studying people and their problem-solving approaches, I gain valuable insights that help me enhance my own skills. This addiction to growth drives me to work with like-minded individuals and develop innovative solutions to complex problems.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imranmir32&label=Profile%20views&color=0e75b6&style=flat" alt="imranmir32" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imranmir32" alt="imranmir32" /></a> </p>
 
 - 🔭 I’m currently working on **Web Development.**
 
@@ -36,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imranmir32&show_icons=true&locale=en" alt="imranmir32" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imranmir32&" alt="imranmir32" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imranmir32" alt="imranmir32" /></a> </p>
