@@ -1,29 +1,38 @@
-# Hi there 👋, my name is Md. Imran Mir
-#### I am Software Engineer
-I always on the lookout for new and intriguing challenges. I have an insatiable passion for learning and expanding my skills, and I strongly believe that there is something to learn from everyone, no matter their level of experience. By studying people and their problem-solving approaches, I gain valuable insights that help me enhance my own skills. This addiction to growth drives me to work with like-minded individuals and develop innovative solutions to complex problems.
+<h1 align="center">Hi 👋, I'm Md. Imran Mir</h1>
+<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
-Skills: REACT / JS / HTML / CSS/NODE JS /MONGODB
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imranmir32&label=Profile%20views&color=0e75b6&style=flat" alt="imranmir32" /> </p>
 
-- 🔭 I’m currently working on Web Development 
-- 👯 I’m looking to collaborate on open-source projects 
-- 🤔 I’m looking for help with improving my coding skills and learning new technologies. 
-- 💬 Ask me about anything related to Web Development, Engineering, Competitive Programming, OPP, Databases, Movie , Anime etc. 
-- ⚡ Fun fact: I love to share knowledge. 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imranmir32" alt="imranmir32" /></a> </p>
 
+- 🔭 I’m currently working on **Web Development.**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ImranMir32)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-imran-mir-972997206//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://master--deft-vacherin-944fe1.netlify.app/)  
+- 🌱 I’m currently learning **Back-End Development**
 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+- 👯 I’m looking to collaborate on **open-source projects.**
 
-💻 Tech Stack:
-C++ Go JavaScript Python Vercel JWT NodeJS React Express.js MongoDB MySQL Postgres Realm SQLite PyTorch TensorFlow Keras LINUX Docker
+- 🤝 I’m looking for help with **improving my coding skills and learning new technologies.**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ImranMir32)](https://github.com/ryo-ma/github-profile-trophy)
+- 👨‍💻 All of my projects are available at [https://master--deft-vacherin-944fe1.netlify.app/](https://master--deft-vacherin-944fe1.netlify.app/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImranMir32)](https://github.com/anuraghazra/github-readme-stats)
+- 💬 Ask me about **anything related to Web Development, Engineering, Competitive Programming, OPP, Databases, Movie , Anime etc.**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ImranMir32&show_icons=true)  
+- 📫 How to reach me **imranmir6677@gmail.com**
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ImranMir32)  
+- ⚡ Fun fact **I love to share knowledge.**
 
-![Profile views](https://gpvc.arturio.dev/ImranMir32)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/md. imran mir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. imran mir" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/imran32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="imran32" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/imran32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imran32" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imranmir32&show_icons=true&locale=en&layout=compact" alt="imranmir32" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imranmir32&show_icons=true&locale=en" alt="imranmir32" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imranmir32&" alt="imranmir32" /></p>
