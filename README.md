@@ -15,6 +15,9 @@ Skills: REACT / JS / HTML / CSS/NODE JS /MONGODB
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
+💻 Tech Stack:
+C++ Go JavaScript Python Vercel JWT NodeJS React Express.js MongoDB MySQL Postgres Realm SQLite PyTorch TensorFlow Keras LINUX Docker
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ImranMir32)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImranMir32)](https://github.com/anuraghazra/github-readme-stats)
