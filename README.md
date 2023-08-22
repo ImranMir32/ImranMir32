@@ -12,7 +12,7 @@ I always on the lookout for new and intriguing challenges. I have an insatiable 
 
 - 🤝 I’m looking for help with **improving my coding skills and learning new technologies.**
 
-- 👨‍💻 All of my projects are available at [https://master--deft-vacherin-944fe1.netlify.app/](https://master--deft-vacherin-944fe1.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://imran-mir-portfolio.netlify.app/](https://imran-mir-portfolio.netlify.app/)
 
 - 💬 Ask me about **anything related to Web Development, Engineering, Competitive Programming, OPP, Databases, Movie , Anime etc.**
 
